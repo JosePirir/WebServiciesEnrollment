@@ -1,0 +1,9 @@
+﻿{Message;lj}
+{Message;lj}
+{"Name":"WebServiciesEnrollment","HostName":"LAPTOP-46B42692","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":141,"Ip":"192.168.1.56","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-06-24 10:25:29","Version":"v1"}
+{"Name":"WebServiciesEnrollment","HostName":"LAPTOP-46B42692","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":16,"Ip":"192.168.1.56","Level":40,"Message":"TRANSACTION ERROR","DateTime":"2022-06-24 10:29:11","Version":"v1"}
+{"Name":"WebServiciesEnrollment","HostName":"LAPTOP-46B42692","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":153,"Ip":"192.168.1.56","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-06-24 10:48:07","Version":"v1"}
+{"Name":"WebServiciesEnrollment","HostName":"LAPTOP-46B42692","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":57,"Ip":"192.168.1.56","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-06-26 08:35:38","Version":"v1"}
+{"Name":"WebServiciesEnrollment","HostName":"LAPTOP-46B42692","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":-203,"Ip":"172.22.144.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-06-29 08:54:12","Version":"v1"}
+{"Name":"WebServiciesEnrollment","HostName":"LAPTOP-46B42692","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":4,"Ip":"172.22.144.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-06-29 08:54:23","Version":"v1"}
+{"Name":"WebServiciesEnrollment","HostName":"LAPTOP-46B42692","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":4,"Ip":"172.22.144.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-06-29 08:54:41","Version":"v1"}
