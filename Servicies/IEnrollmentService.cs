@@ -10,6 +10,8 @@ namespace WebServiciesEnrollment.Servicies
         string Test(string s);
         [OperationContract]
         EnrollmentResponse EnrollmentProcess(EnrollmentRequest request);
+        [OperationContract]
+        CandidateRecordResponse CandidateRegisterProcess(CandidateRecordRequest request);
     }
 }
 /**/
